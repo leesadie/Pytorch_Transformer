@@ -1,4 +1,5 @@
 # PyTorch Transformers
-From "Attention Is All You Need" paper - [https://arxiv.org/abs/1706.03762]
+From [Attention Is All You Need](https://arxiv.org/abs/1706.03762) paper
 
-*Translation still in progress*
+> [!NOTE]
+> Translation in progress.
